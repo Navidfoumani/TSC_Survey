@@ -3,6 +3,9 @@ Deep Learning for Time Series Classification and Extrinsic Regression: A Current
 
 #### ✨ **News:** This work has been accepted for publication in [ACM Computing Survey ](https://dl.acm.org/doi/10.1145/3649448).
 ## Citation
+<p align="center">
+    <img src="Taxonomy.png">
+</p>
 
 If you find **This Survey** useful for your research, please consider citing this paper using the following information:
 
