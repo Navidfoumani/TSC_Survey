@@ -28,7 +28,7 @@ journal = {ACM Comput. Surv.},
 
 ### Summary of CNN models for time series classification and extrinsic regression
 
-| Title                                                                   | Venue (Journal)                 | Year | Code |
+| Title                                                                   | Venue                 | Year | Code |
 | ------------------------------------------------------------------------| --------------------------------| ---- | ---- |
 | [Time series classification using multi-channels deep convolutional neural networks](https://link.springer.com/chapter/10.1007/978-3-319-08010-9_33) | WAIM | 2014 | - |
 | [Deep convolutional neural networks on multichannel time series for human activity recognition](https://www.ijcai.org/Proceedings/15/Papers/561.pdf)                                                        | IJCAI| 2015 | - |
