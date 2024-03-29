@@ -101,6 +101,74 @@ Deep Learning for Time Series Classification and Extrinsic Regression: A Current
 | PHIT | [Finding Foundation Models for Time Series Classification with a PreText Task](https://arxiv.org/html/2311.14534v2) | arXiv |2023 | [code](https://github.com/msd-irimas/domainfoundationmodelstsc)|
 | Series2Vec | [Series2Vec: Similarity-based Self-supervised Representation Learning for Time Series Classification](https://arxiv.org/abs/2312.03998) | arXiv |2023 | [code](https://github.com/Navidfoumani/Series2Vec)|
 
+# Application
+## Summary of Human Activity Recognition
+|Abbreviation| Title                                                                                 | Venue       | Year | Code |
+|------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
+| - | [Convolutional Neural Networks for human activity recognition using mobile sensors](https://ieeexplore.ieee.org/abstract/document/7026300) | ICST |2014 | - |
+| DCNN | [Human Activity Recognition Using Wearable Sensors by Deep Convolutional Neural Networks](https://dl.acm.org/doi/abs/10.1145/2733373.2806333) | ACM |2015 | - |
+| - | [Deep convolutional neural networks on multichannel time series for human activity recognition](https://www.ijcai.org/Proceedings/15/Papers/561.pdf) | IJCAI |2015 | - |
+| DeepConvLSTM | [Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition](https://www.mdpi.com/1424-8220/16/1/115) | Sensors |2016 | -|
+| DeepHAR | [Deep, convolutional, and recurrent models for human activity recognition using wearables](https://www.ijcai.org/Proceedings/16/Papers/220.pdf) | IJCAI |2016 | [code](https://github.com/nhammerla/deepHAR)|
+| - | [Human activity recognition with smartphone sensors using deep learning neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417416302056) |  Expert Syst. Appl. |2016 | -|
+| - | [Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://dl.acm.org/doi/10.1145/3090076) | ACM Interact. Mob. Wearable Ubiquitous Technol. |2017 | -|
+| - | [Human activity recognition from accelerometer data using Convolutional Neural Network](https://ieeexplore.ieee.org/document/7881728) | IEEE BigComp |2017 | -|
+| - | [Deep Recurrent Neural Networks for Human Activity Recognition](https://www.mdpi.com/1424-8220/17/11/2556#:~:text=Deep%20Recurrent%20Neural%20Networks%20for%20Human%20Activity%20Recognition,Networks%20...%204%204.%20Proposed%20DRNN%20Architectures%20) | Sensors |2017 | -|
+| - | [Real-time human activity recognition from accelerometer data using Convolutional Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S1568494617305665) |  Appl. Soft Comput. |2018 | -|
+| - | [Convolutional Neural Networks for Human Activity Recognition Using Body-Worn Sensors](https://www.mdpi.com/2227-9709/5/2/26) | Informatics |2018 | -|
+| - | [Efficient dense labelling of human activity sequences from wearables using fully convolutional networks](https://www.sciencedirect.com/science/article/abs/pii/S0031320317305204) | Pattern Recognit. |2018 | -|
+| - | [Understanding and improving recurrent networks for human activity recognition by continuous attention](https://dl.acm.org/doi/10.1145/3267242.3267286) | ACM-ISWC |2018 | -|
+| AttnSense | [AttnSense: multi-level attention mechanism for multimodal human activity recognition](https://www.ijcai.org/Proceedings/2019/0431.pdf) | IJCAI |2019 | -|
+| InnoHAR | [InnoHAR: A Deep Neural Network for Complex Human Activity Recognition](https://ieeexplore.ieee.org/document/8598871) | IEEE Access |2019 | -| 
+| - | [A Novel IoT-Perceptive Human Activity Recognition (HAR) Approach Using Multihead Convolutional Attention]() |  IEEE Internet Things J. |2020 |-|
+| - | [A multibranch CNN-BiLSTM model for human activity recognition using wearable sensor data](https://link.springer.com/article/10.1007/s00371-021-02283-3) | The Visual Computer |2021 | -|
+| CNN-biGRU | [Deep Convolutional Neural Network with RNNs for Complex Activity Recognition Using Wrist-Worn Wearable Sensor Data](https://www.mdpi.com/2079-9292/10/14/1685) | Electronics |2021 | -|
+| DEBONAIR | [Deep learning based multimodal complex human activity recognition using wearable devices](https://link.springer.com/article/10.1007/s10489-020-02005-7) | Appl. Intell. |2020 |-|
+| - | [LSTM Networks Using Smartphone Data for Sensor-Based Human Activity Recognition in Smart Homes](https://www.mdpi.com/1424-8220/21/5/1636) | Sensors |2021 | -|
+| - | [Biometric User Identification Based on Human Activity Recognition Using Wearable Sensors: An Experiment Using Deep Learning Models](https://www.mdpi.com/2079-9292/10/3/308) | Electronics |2021 | - |
+| - | [Sensor-Based Human Activity Recognition with Spatio-Temporal Deep Learning](https://www.mdpi.com/1424-8220/21/6/2141) | Sensors |2021 |-|
+| - | [Deep ConvLSTM With Self-Attention for Human Activity Decoding Using Wearable Sensors](https://ieeexplore.ieee.org/document/9296308) | IEEE Sens. J. |2021 |-|
+| - | [Deep Convolutional Networks With Tunable Speed–Accuracy Tradeoff for Human Activity Recognition Using Wearables](https://ieeexplore.ieee.org/document/9632601) | IEEE Trans. Instrum. Meas. |2021 | -|
+| - | [Deformable Convolutional Networks for Multimodal Human Activity Recognition Using Wearable Sensors](https://ieeexplore.ieee.org/document/9732352) | IEEE Trans. Instrum. Meas. |2022 | [code](https://github.com/xushige/Deformable-Convolution-in-HAR)|
+
+
+## Summary of Satellite Earth Observation
+
+|Abbreviation| Title                                                                                 | Venue       | Year | Code |
+|------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
+| TAN | [Temporal Attention Networks for Multitemporal Multisensor Crop Classification](https://ieeexplore.ieee.org/document/8822931) | IEEE Acess |2019 |-|
+| TGA | [A temporal group attention approach for multitemporal multisensor crop classification](https://www.sciencedirect.com/science/article/abs/pii/S1350449519306978) | Infrared Phys. Technol. |2020 | -|
+| 3D-CNN | [3D Convolutional Neural Networks for Crop Classification with Multi-Temporal Remote Sensing Images](https://www.mdpi.com/2072-4292/10/1/75) | Remote Sensing |2018 | -|
+| DCM | [DeepCropMapping: A multi-temporal deep learning approach with improved spatial generalizability for dynamic corn and soybean mapping](https://www.sciencedirect.com/science/article/abs/pii/S0034425720303163) | Remote Sens. Environ. |2020 | [code](https://github.com/Lab-IDEAS/DeepCropMapping)|
+| HierbiLSTM | [Multimodal Crop Type Classification Fusing Multi-Spectral Satellite Time Series with Farmers Crop Rotations and Local Crop Distribution](https://arxiv.org/abs/2208.10838) | arXiv |2022 |-|
+| L-TAE | [Lightweight Temporal Self-attention for Classifying Satellite Images Time Series]() | AALTD |2020 | [code](https://github.com/VSainteuf/lightweight-temporal-attention-pytorch)|
+| PSE-TAE | [Satellite Image Time Series Classification With Pixel-Set Encoders and Temporal Self-Attention](https://ieeexplore.ieee.org/document/9157055) | CVPR |2020 | [code](https://github.com/VSainteuf/pytorch-psetae)|
+| SITS-BERT | [Self-Supervised Pretraining of Transformers for Satellite Image Time Series Classification](https://ieeexplore.ieee.org/document/9252123)| IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. |2020 | - |
+| 1D-CNN | [End-to-end learning of deep spatio-temporal representations for satellite image time series classification](https://ceur-ws.org/Vol-1972/paper4.pdf) | PKDD/ECML |2017 | -|
+| 1D & 2D-CNNs | [Deep Learning Classification of Land Cover and Crop Types Using Remote Sensing Data](https://ieeexplore.ieee.org/document/7891032) | IEEE GRSL |2017 | -| 
+| TempCNN | [Temporal convolutional neural network for the classification of satellite image time series](https://www.mdpi.com/2072-4292/11/5/523) | Remote Sensing |2019 | [code](https://github.com/charlotte-pel/temporalCNN)|
+| TASSEL | [Attentive Weakly Supervised land cover mapping for object-based satellite image time series data with spatial interpretation](https://arxiv.org/abs/2004.14672) | arXiv |2020 | -|
+| TSI | [Time series remote sensing image classification framework using combination of deep learning and multiple classifiers system](https://www.sciencedirect.com/science/article/pii/S0303243421001847) | 	Int. J. Appl. Earth Obs. Geoinf. |2021 | -|
+| TWINNS | [Combining Sentinel-1 and Sentinel-2 Satellite Image Time Series for land cover mapping via a multi-source deep learning architecture](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302278) | ISPRS J. Photogramm. Remote Sens |2019 | -|
+| DuPLO | [DuPLO: A DUal view Point deep Learning architecture for time series classificatiOn](https://www.sciencedirect.com/science/article/abs/pii/S0924271619300115) | ISPRS J. Photogramm. Remote Sens |2019 | -|
+| Sequential RNN | [Multi-Temporal Land Cover Classification with Sequential Recurrent Encoders](https://www.mdpi.com/2220-9964/7/4/129) | ISPRS Int. J. Geo-Inf. |2018 | [code](https://github.com/MarcCoru/MTLCC)|
+| FG-UNET | [Land Cover Maps Production with High Resolution Satellite Image Time Series and Convolutional Neural Networks: Adaptations and Limits for Operational Systems](https://www.mdpi.com/2072-4292/11/17/1986) | Remote Sensing |2019 | -|
+| LSTM | [Land Cover Classification via Multitemporal Spatial Data by Deep Recurrent Neural Networks](https://ieeexplore.ieee.org/document/8006221) | IEEE GRSL |2017 | -|
+| HOb2sRNN | [Object-Based Multi-Temporal and Multi-Source Land Cover Mapping Leveraging Hierarchical Class Relationships](https://www.mdpi.com/2072-4292/12/17/2814) | Remote Sensing |2020 | -|
+| OD2RNN | [Combining Sentinel-1 and Sentinel-2 Time Series via RNN for Object-Based Land Cover Classification](https://ieeexplore.ieee.org/document/8898458) | IEEE IGARSS |2019 | -|
+| SITS-Former | [SITS-Former: A pre-trained spatio-spectral-temporal representation model for Sentinel-2 time series classification](https://www.sciencedirect.com/science/article/pii/S0303243421003585) | Int. J. Appl. Earth Obs. Geoinf. |2022 | [code](https://github.com/linlei1214/SITS-Former)|
+| - | [Mapping Deforestation in Cerrado Based on Hybrid Deep Learning Architecture and Medium Spatial Resolution Satellite Time Series](https://www.mdpi.com/2072-4292/14/1/209/review_report) | Remote Sensing |2022 | -|
+| - | [FLOOD DETECTION IN TIME SERIES OF OPTICAL AND SAR IMAGES](https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/1343/2020/) | Int. Archives Photogrammetry, Remote Sens. & Spatial Inf. Sci. |2020 | -|
+| - | [Classifying surface fuel types based on forest stand photographs and satellite time series using deep learning](https://www.sciencedirect.com/science/article/pii/S1569843222000012) | 	Int. J. Appl. Earth Obs. Geoinf. |2022 | -|
+| - | [Deep Neural Networks for automatic extraction of features in time series satellite images](https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/1529/2020/) | Int. Archives Photogrammetry, Remote Sens. & Spatial Inf. |2020 | -|
+| - | [Deep Recurrent Neural Networks for Winter Vegetation Quality Mapping via Multitemporal SAR Sentinel-1](https://ieeexplore.ieee.org/document/8277174) | IEEE GRSL |2018 | -|
+| TempCNN-LFMC | [Live fuel moisture content estimation from MODIS: A deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0924271621001957) | ISPRS J. Photogramm. Remote Sens. |2021 | -|
+| Multi-tempCNN | [Multi-modal temporal CNNs for live fuel moisture content estimation](https://www.sciencedirect.com/science/article/abs/pii/S1364815222001712) | Environ. Model. Softw. |2022 | -|
+| LFMC estimation | [SAR-enhanced mapping of live fuel moisture content](https://www.sciencedirect.com/science/article/pii/S003442572030167X) | RSE |2020 | [code](https://github.com/kkraoj/lfmc_from_sar)|
+| LFMC estimation | [Retrieval of Live Fuel Moisture Content Based on Multi-Source Remote Sensing Data and Ensemble Deep Learning Model](https://www.mdpi.com/2072-4292/14/17/4378) | Remote Sensing |2022 | -|
+| MLDL-net | [Multilevel Deep Learning Network for County-Level Corn Yield Estimation in the U.S. Corn Belt](https://ieeexplore.ieee.org/document/9177261) | IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. |2020 | -|
+| SSTNN | [Crop yield prediction from multi-spectral, multi-temporal remotely sensed imagery using recurrent 3D convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0303243421001434) | 	Int. J. Appl. Earth Obs. Geoinf. |2021 | -|
+| MMFVE | [Combining LiDAR Metrics and Sentinel-2 Imagery to Estimate Basal Area and Wood Volume in Complex Forest Environment via Neural Networks]() | IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. |2022 | -|
 
 If you find **This Survey** useful for your research, please consider citing this paper using the following information:
 
