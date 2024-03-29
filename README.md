@@ -53,7 +53,7 @@ journal = {ACM Comput. Surv.},
 |KDCTime| [KDCTime: Knowledge distillation with calibration on InceptionTime for time-series classification](https://www.sciencedirect.com/science/article/abs/pii/S0020025522009434) | J. Inf. Sci | 2022 | - |
 |LITE| [LITE: Light Inception with boosTing tEchniques for Time Series Classification](https://ieeexplore.ieee.org/document/10302569) | DSAA | 2023 | [code](https://github.com/MSD-IRIMAS/LITE) |
 
-## Attention-based Models TSC/TSER
+### Attention-based Models TSC/TSER
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
 |------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
 |MuVAN|[MuVAN: A Multi-view Attention Network for Multivariate Temporal Data](https://ieeexplore.ieee.org/document/8594896)|ICDM|2018|-|
@@ -74,7 +74,7 @@ journal = {ACM Comput. Surv.},
 |AutoTransformer|[AutoTransformer: Automatic Transformer Architecture Design for Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_12)|PAKDD|2022|-|
 |ConvTran|[Improving position encoding of transformers for multivariate time series classification](https://link.springer.com/article/10.1007/s10618-023-00948-2)|Data Min. Knowl. Discov|2023|[code](https://github.com/Navidfoumani/ConvTran)|
 
-## Graph Neural Network Models TSC/TSER
+### Graph Neural Network Models TSC/TSER
 
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
 |------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
@@ -98,7 +98,7 @@ journal = {ACM Comput. Surv.},
 | TodyNet |[TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification](https://arxiv.org/abs/2304.05078)| arXiv | 2023 | [code](https://github.com/liuxz1011/TodyNet) |
 | LB-SimTSC |[LB-SimTSC: An Efficient Similarity-Aware Graph Neural Network for Semi-Supervised Time Series Classification](https://arxiv.org/abs/2301.04838)| arXiv | 2023 | - |
 
-## Self-supervised Models TSC/TSER
+### Self-supervised Models TSC/TSER
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
 |------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
 | TCL | [Unsupervised feature extraction by time-contrastive learning and nonlinear ica](https://proceedings.neurips.cc/paper_files/paper/2016/file/d305281faf947ca7acade9ad5c8c818c-Paper.pdf) | NIPS |2016 | -|
@@ -120,8 +120,8 @@ journal = {ACM Comput. Surv.},
 | PHIT | [Finding Foundation Models for Time Series Classification with a PreText Task](https://arxiv.org/html/2311.14534v2) | arXiv |2023 | [code](https://github.com/msd-irimas/domainfoundationmodelstsc)|
 | Series2Vec | [Series2Vec: Similarity-based Self-supervised Representation Learning for Time Series Classification](https://arxiv.org/abs/2312.03998) | arXiv |2023 | [code](https://github.com/Navidfoumani/Series2Vec)|
 
-# Application
-## Summary of Human Activity Recognition
+## Application
+### Summary of Human Activity Recognition
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
 |------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
 | - | [Convolutional Neural Networks for human activity recognition using mobile sensors](https://ieeexplore.ieee.org/abstract/document/7026300) | ICST |2014 | - |
@@ -151,7 +151,7 @@ journal = {ACM Comput. Surv.},
 | - | [Deformable Convolutional Networks for Multimodal Human Activity Recognition Using Wearable Sensors](https://ieeexplore.ieee.org/document/9732352) | IEEE Trans. Instrum. Meas. |2022 | [code](https://github.com/xushige/Deformable-Convolution-in-HAR)|
 
 
-## Summary of Satellite Earth Observation
+### Summary of Satellite Earth Observation
 
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
 |------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
