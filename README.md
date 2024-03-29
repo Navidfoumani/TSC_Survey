@@ -25,9 +25,14 @@ journal = {ACM Comput. Surv.},
 }
 ```
 ````
+## Table of Contents
+
+- [CNN Models TSC/TSER](https://github.com/Navidfoumani/TSC_Survey/edit/main/#CNN-Models-TSC/TSER)
+- [Attention-based Models TSC/TSER](#attention-based-models-tsctser)
+- [Graph Neural Network Models TSC/TSER](#graph-neural-network-models-tsctser)
+
 
 ### CNN Models TSC/TSER
-
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
 |------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
 |MC-DCNN| [Time series classification using multi-channels deep convolutional neural networks](https://link.springer.com/chapter/10.1007/978-3-319-08010-9_33) | WAIM | 2014 | - |
