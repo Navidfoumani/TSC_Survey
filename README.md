@@ -6,6 +6,24 @@ Deep Learning for Time Series Classification and Extrinsic Regression: A Current
     <img src="Taxonomy.png">
 </p>
 
+## Citation
+If you find **This Survey** useful for your research, please consider citing this paper using the following information:
+
+````
+```
+@article{Survey24TS,
+author = {Foumani, Navid Mohammadi and Miller, Lynn and Tan, Chang Wei and Webb, Geoffrey I. and Forestier, Germain and Salehi, Mahsa},
+title = {Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3649448},
+doi = {10.1145/3649448},
+note = {Just Accepted},
+journal = {ACM Comput. Surv.},
+}
+
 ### CNN Models TSC/TSER
 
 |Abbreviation| Title                                                                                 | Venue       | Year | Code |
@@ -169,23 +187,6 @@ Deep Learning for Time Series Classification and Extrinsic Regression: A Current
 | SSTNN | [Crop yield prediction from multi-spectral, multi-temporal remotely sensed imagery using recurrent 3D convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0303243421001434) | 	Int. J. Appl. Earth Obs. Geoinf. |2021 | -|
 | MMFVE | [Combining LiDAR Metrics and Sentinel-2 Imagery to Estimate Basal Area and Wood Volume in Complex Forest Environment via Neural Networks]() | IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. |2022 | -|
 
-## Citation
-If you find **This Survey** useful for your research, please consider citing this paper using the following information:
-
-````
-```
-@article{Survey24TS,
-author = {Foumani, Navid Mohammadi and Miller, Lynn and Tan, Chang Wei and Webb, Geoffrey I. and Forestier, Germain and Salehi, Mahsa},
-title = {Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey},
-year = {2024},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {0360-0300},
-url = {https://doi.org/10.1145/3649448},
-doi = {10.1145/3649448},
-note = {Just Accepted},
-journal = {ACM Comput. Surv.},
-}
 
 ```
 ````
