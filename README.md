@@ -27,7 +27,7 @@ journal = {ACM Comput. Surv.},
 ````
 ## Table of Contents
 
-- [CNN Models TSC/TSER](https://github.com/Navidfoumani/TSC_Survey/main#cnn-models)
+-[CNN Models TSC/TSER](https://github.com/Navidfoumani/TSC_Survey/tree/main#cnn-models)
 - [Attention-based Models TSC/TSER](#attention-based-models-tsctser)
 - [Graph Neural Network Models TSC/TSER](#graph-neural-network-models-tsctser)
 
