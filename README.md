@@ -2,7 +2,6 @@
 Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey
 
 #### ✨ **News:** This work has been accepted for publication in [ACM Computing Survey ](https://dl.acm.org/doi/10.1145/3649448).
-## Citation
 <p align="center">
     <img src="Taxonomy.png">
 </p>
@@ -170,6 +169,7 @@ Deep Learning for Time Series Classification and Extrinsic Regression: A Current
 | SSTNN | [Crop yield prediction from multi-spectral, multi-temporal remotely sensed imagery using recurrent 3D convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0303243421001434) | 	Int. J. Appl. Earth Obs. Geoinf. |2021 | -|
 | MMFVE | [Combining LiDAR Metrics and Sentinel-2 Imagery to Estimate Basal Area and Wood Volume in Complex Forest Environment via Neural Networks]() | IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. |2022 | -|
 
+## Citation
 If you find **This Survey** useful for your research, please consider citing this paper using the following information:
 
 ````
