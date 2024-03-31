@@ -195,6 +195,32 @@ journal = {ACM Comput. Surv.},
 | SSTNN | [Crop yield prediction from multi-spectral, multi-temporal remotely sensed imagery using recurrent 3D convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0303243421001434) | 	Int. J. Appl. Earth Obs. Geoinf. |2021 | -|
 | MMFVE | [Combining LiDAR Metrics and Sentinel-2 Imagery to Estimate Basal Area and Wood Volume in Complex Forest Environment via Neural Networks]() | IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens. |2022 | -|
 
+## Commonly used human activity recognition datasets
+|Dataset     | Paper                                                                                 | Venue       | Year | Repository |
+|------------| --------------------------------------------------------------------------------------| ------------| ---- | ---- |
+|DAPHNet FoG| [Potentials of Enhanced Context Awareness in Wearable Assistants for Parkinson's Disease Patients with the Freezing of Gait Syndrome](https://ieeexplore.ieee.org/document/5254658)| ISWC |2009|[repo](https://archive.ics.uci.edu/dataset/245/daphnet+freezing+of+gait)|
+|Opportunity challenge| [The Opportunity challenge: A benchmark database for on-body sensor-based activity recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167865512004205)| Pattern Recognit. Lett.|2013|[repo](http://www.opportunity-project.eu/challengeDataset.html)|
+|PAMAP2| [Introducing a New Benchmarked Dataset for Activity Monitoring](https://ieeexplore.ieee.org/document/6246152?denied=)| ISWC |2012|[repo](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring)|
+|Skoda| [Activity Recognition from On-Body Sensors: Accuracy-Power Trade-Off by Dynamic Sensor Selection](https://link.springer.com/chapter/10.1007/978-3-540-77690-1_2)| EWSN|2008|[repo](http://har-dataset.org/lib/exe/fetch.php?media=wiki:dataset:skodaminicp:skodaminicp_2015_08.zip)|
+|UCI-HAR| [APublic Domain Dataset for Human Activity Recognition Using Smartphones](https://www.esann.org/sites/default/files/proceedings/legacy/es2013-84.pdf)| ESANN |2013|[repo](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)|
+|UniMiB SHAR| [UniMiB SHAR: A Dataset for Human Activity Recognition Using Acceleration Data from Smartphones](https://www.mdpi.com/2076-3417/7/10/1101)| Applied Science|2017|[repo](http://www.sal.disco.unimib.it/technologies/unimib-shar/)|
+|USC-HAD| [USC-HAD: a daily activity dataset for ubiquitous activity recognition using wearable sensor](https://dl.acm.org/doi/10.1145/2370216.2370438)| ACM UbiComp|2012|[repo](https://sipi.usc.edu/had/)|
+|WISDM| [Activity recognition using cell phone accelerometers](https://dl.acm.org/doi/10.1145/1964897.1964918)| ACM SIGKDD|2011|[repo](https://www.cis.fordham.edu/wisdm/dataset.php)|
+
+## Earth Observation satellites and instruments collecting the data used in the studies reviewed.
+
+|Agency| Satellite & Instruments |Title                                                              |Type| Code |
+|------|-------------------------|-------------------------------------------------------------------|----|------|
+|NASA|Landsat-7 ETM|[Landsat Satellite Missions](https://www.usgs.gov/landsat-missions/landsat-satellite-missions)|Optical|-|
+|NASA|Landsat-8 OLI|[Landsat Satellite Missions](https://www.usgs.gov/landsat-missions/landsat-satellite-missions)|Optical|-|
+|NASA|Terra/Aqua MODIS|[MODIS Moderate Resolution Imaging Spectrometer](https://modis.gsfc.nasa.gov/)|Optical|-|
+|ESA|Sentinel-1A/1B SAR-C|[Sentinel Online](https://sentinel.esa.int/web/sentinel/home)|Microwave SAR|-|
+|ESA|Sentinel-2A/2B MSI|[Sentinel Online](https://sentinel.esa.int/web/sentinel/hom)|Optical|-|
+|CNES (France)|Pléiades-1A/1B HiRI|[Earth Online](https://earth.esa.int/eogateway/missions/pleiades)|Optical|-|
+|NSPO (Taiwan)|Formosat-2 RSI|[FORMOSAT-2](https://www.nspo.narl.org.tw/history{_}prog.php?c=20030402{&}ln=en)|Optical|-|
+|CRESDA (China)|Gaofen-1/2 MUX, PAN, WFV|[Gaofen2](https://www.eoportal.org/satellite-missions/gaofen-2)|Optical|-|
+
+
 
 ```
 ````
